@@ -1,0 +1,15 @@
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.csproj.AssemblyReference.cache
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.AssemblyInfoInputs.cache
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.AssemblyInfo.cs
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.csproj.CoreCompileInputs.cache
+D:\ДНУ\Системне програмування\modul21\modul21\bin\Debug\net6.0\modul21.exe
+D:\ДНУ\Системне програмування\modul21\modul21\bin\Debug\net6.0\modul21.deps.json
+D:\ДНУ\Системне програмування\modul21\modul21\bin\Debug\net6.0\modul21.runtimeconfig.json
+D:\ДНУ\Системне програмування\modul21\modul21\bin\Debug\net6.0\modul21.dll
+D:\ДНУ\Системне програмування\modul21\modul21\bin\Debug\net6.0\modul21.pdb
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.dll
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\refint\modul21.dll
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.pdb
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\modul21.genruntimeconfig.cache
+D:\ДНУ\Системне програмування\modul21\modul21\obj\Debug\net6.0\ref\modul21.dll
